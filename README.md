@@ -35,16 +35,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img src="https://img.shields.io/badge/-C-A8B400?logo=c&logoColor=white&style=flat-square" alt="C"/>
-</a>
-<a href="https://isocpp.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=flat-square" alt="C++"/>
-</a>
-<a href="https://golang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square" alt="Go"/>
-</a>
-<a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
-    <img src="https://img.shields.io/badge/-Assembly-7E7B7A?logo=assembly&logoColor=white&style=flat-square" alt="Assembly"/>
-</a>
+  <img src="https://img.shields.io/badge/-C-A8B400?logo=c&logoColor=white&style=flat-square" alt="C"/>
+  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=flat-square" alt="C++"/>
+  <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square" alt="Go"/>
+  <img src="https://img.shields.io/badge/-Assembly-7E7B7A?logo=assembly&logoColor=white&style=flat-square" alt="Assembly"/>
 </div>

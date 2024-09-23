@@ -33,7 +33,7 @@
  <samp><h1> My Tech Stack </h1></samp>
 </div>
 
-<div align="center">
+<div align="center"; justify-content="center">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python"/>
 </a>

@@ -1,1 +1,1 @@
-![My Banner](.banner.txt)
+![My Banner](banner.txt)

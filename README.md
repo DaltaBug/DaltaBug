@@ -33,10 +33,8 @@
  <samp><h1> My Tech Stack </h1></samp>
 </div>
 
-<div align="center"; justify-content="center">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python"/>
-</a>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://img.shields.io/badge/-C-A8B400?logo=c&logoColor=white&style=flat-square" alt="C"/>
 </a>

@@ -11,9 +11,33 @@
 </div>
 
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?font=monospace&duration=1240&pause=2800&color=ffff&center=true&width=600&lines=Bug%20Hunter%20And%20Security%20Student;Breacher+:%3E">
+ <img src="https://readme-typing-svg.herokuapp.com/?font=monospace&d![leaker](https://github.com/user-attachments/assets/f9816012-d482-4e69-9766-9058888e2678)
+uration=1240&pause=2800&color=ffff&center=true&width=600&lines=Bug%20Hunter%20And%20Security%20Student;Breacher+:%3E">
+
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+</div>
+
+<br>
+
+<div align="center">
+<samp>
+ 🖖 Code Lover | ![leaker](https://github.com/user-attachments/assets/8e450128-74ef-4a83-ab5b-56477936a6af) Security Student | 🌵 Software developer 
+ </samp>
+ <br>
+ <samp>
+ </samp>
+</div>
+
+<div align="center">
+ <samp><h1> My Tech Stack </h1></samp>
+</div>
+
+<div align="center">
+  ![C](https://img.shields.io/badge/-C-A8B400?logo=c&logoColor=white&style=flat-square)
+  ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=flat-square)
+  ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square)
+  ![Assembly](https://img.shields.io/badge/-Assembly-7E7B7A?logo=assembly&logoColor=white&style=flat-square)
 </div>

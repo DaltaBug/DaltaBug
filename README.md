@@ -15,8 +15,11 @@
 </div>
 
 <div align="center">
-  <img a="https://github.com/SSHpectator/" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://github.com/SSHpectator" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+  </a>
 </div>
+
 
 <br>
 
